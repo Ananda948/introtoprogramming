@@ -1,0 +1,13 @@
+body {
+    color: red;
+}
+
+p {
+    border-radius: 5px;
+    margin-right: 0px 200px;
+    padding: 10px;
+}
+
+#halo {
+    padding: 0px 50px;
+}
