@@ -1,0 +1,39 @@
+.body {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+ .navbar {
+    max-height: 20px;
+ }
+.container-fluid {
+
+    padding: none;
+    margin-left: 188px;
+    margin-right: 188px;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    justify-content: center;
+    margin: 10px 200px 10px 200px;
+}
+
+.row {
+    margin-left: 188px ;
+    margin-right: 188px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.well {
+    margin-bottom: 0;
+}
+.text-copyright td {
+        padding: 3px 215px 0 188px;
+}
